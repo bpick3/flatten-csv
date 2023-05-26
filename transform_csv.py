@@ -35,6 +35,6 @@ def transform_csv(input_file, output_file):
     print(f"The CSV file '{input_file}' has been transformed and saved as '{output_file}'.")
 
 # Example usage
-input_filename = '/Users/brandonpickett/Desktop/EE/20201103_allstateprecincts.csv'  # Replace with the path to your input CSV file
-output_filename = '/Users/brandonpickett/Desktop/EE/flat_file.csv'  # Replace with the desired path for the output transformed CSV file
+input_filename = 'input.csv'  # Replace with the path to your input CSV file
+output_filename = 'output_transformed.csv'  # Replace with the desired path for the output transformed CSV file
 transform_csv(input_filename, output_filename)
