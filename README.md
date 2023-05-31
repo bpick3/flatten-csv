@@ -14,15 +14,15 @@ The script performs the following transformations on the input CSV file:
 
 ## Requirements
 
-* Python 3.x
+* Python 3.x (newest version)
 * '**csv**' module (standard library)
 
 ## Usage
 
 1. Place the input CSV file in the same directory as the script.
-2. Update the '**input_filename**' and '**output_filename**' variables in the code with the appropriate file names and paths.
-3. Run the script using Python: '**python transform_csv.py**'
-4. The transformed CSV file will be saved as specified by the '**output_filename**' path.
+2. Update the ```**input_filename**``` and ```**output_filename**``` variables in the code with the appropriate file names and paths.
+3. Run the script using Python: ```**python3 transform_csv.py**```
+4. The transformed CSV file will be saved as specified by the ```**output_filename**``` path.
 
 ## Limitations
 
