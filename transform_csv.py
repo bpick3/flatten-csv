@@ -34,7 +34,7 @@ def transform_csv(input_file, output_file):
 
     print(f"The CSV file '{input_file}' has been transformed and saved as '{output_file}'.")
 
-# Replace with appropriate file names
+# Replace with appropriate file paths
 input_filename = 'input.csv'  # Replace with the path to the input CSV file
 output_filename = 'output_transformed.csv'  # Replace with the desired path for the output transformed CSV file
 transform_csv(input_filename, output_filename)
